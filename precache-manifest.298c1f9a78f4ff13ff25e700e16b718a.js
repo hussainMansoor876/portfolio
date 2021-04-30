@@ -1,43 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "389e36f23982a688aec4843e283c9230",
+    "revision": "14a7a714cb8d4bc9239b37581b219f19",
     "url": "/index.html"
   },
   {
-    "revision": "501b0ac63425cb58825a",
+    "revision": "7110a50ea124520f5ff1",
     "url": "/static/css/3.6a352120.chunk.css"
   },
   {
-    "revision": "f0f81ed0b653cfa05d0b",
+    "revision": "871fd600b6273d75c9a2",
     "url": "/static/css/4.6e14a8dd.chunk.css"
   },
   {
-    "revision": "998bcf7cb2ca75df9a6d",
+    "revision": "adba40dc2a54476afc51",
     "url": "/static/css/main.5b80ea7a.chunk.css"
   },
   {
-    "revision": "d013af0319759ab7be41",
-    "url": "/static/js/2.841e270a.chunk.js"
+    "revision": "9fe13171cbad7a798e36",
+    "url": "/static/js/2.326c5cc0.chunk.js"
   },
   {
     "revision": "3dbd45c8ed21d092cdcb3d5851d22288",
-    "url": "/static/js/2.841e270a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.326c5cc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "501b0ac63425cb58825a",
-    "url": "/static/js/3.9b72d0e2.chunk.js"
+    "revision": "7110a50ea124520f5ff1",
+    "url": "/static/js/3.e68e15af.chunk.js"
   },
   {
-    "revision": "f0f81ed0b653cfa05d0b",
-    "url": "/static/js/4.5541cee2.chunk.js"
+    "revision": "871fd600b6273d75c9a2",
+    "url": "/static/js/4.e0129356.chunk.js"
   },
   {
-    "revision": "998bcf7cb2ca75df9a6d",
-    "url": "/static/js/main.85a85f52.chunk.js"
+    "revision": "adba40dc2a54476afc51",
+    "url": "/static/js/main.c4cfaa7a.chunk.js"
   },
   {
-    "revision": "73d8bd8348216d9a8d1a",
-    "url": "/static/js/runtime-main.aa55e841.js"
+    "revision": "61b92ac4c381dec64c58",
+    "url": "/static/js/runtime-main.972705c7.js"
+  },
+  {
+    "revision": "cd6c94d7b0f342c8e3a7f3a061e46cdd",
+    "url": "/static/media/247international.cd6c94d7.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -80,20 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
