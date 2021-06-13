@@ -151,34 +151,15 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      company: "Entrolics-llc",
+      companylogo: require("./assets/images/context.png"),
+      date: "August 2020 – Present",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
-    {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "Entrolics LLC is a highly qualified professional services company supporting valued customers in government and commercial organizations.",
+      descBullets: []
     }
   ]
-};
+}
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -202,6 +183,30 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://247itinternational.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/context.png"),
+      projectName: "Context",
+      projectDesc: "Context is a highly qualified professional services company supporting valued customers in government and commercial organizations.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://context-2my7afm7yq-ue.a.run.app"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/upperLevel.jpg"),
+      projectName: "Upper Level Sweeps",
+      projectDesc: "Upper Level Sweeps is an online Gaming Platform company supporting valued customers in multiple games.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.upperlevelsweeps.com"
         }
         //  you can add extra buttons here.
       ]
