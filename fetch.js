@@ -10,7 +10,7 @@ if (GITHUB_USERNAME === undefined) {
   throw "Github Username was found to be undefined. Please set an Environment variable.";
 }
 
-console.log(`fetching profile for ${GITHUB_USERNAME}`);
+console.log(`fetching profile for ${GITHUB_USERNAME}`)
 var data = JSON.stringify({
   query: `
 {
