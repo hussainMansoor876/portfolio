@@ -157,7 +157,15 @@ const workExperiences = {
       desc:
         "Entrolics LLC is a highly qualified professional services company supporting valued customers in government and commercial organizations.",
       descBullets: []
-    }
+    },
+    {
+      role: "Software Engineer",
+      companylogo: require("./assets/images/upperLevel.jpg"),
+      company: "Upper Level Sweeps",
+      desc: "Upper Level Sweeps is an online Gaming Platform company supporting valued customers in multiple games.",
+      date: "Feb 2021 – March 2021",
+      descBullets: []
+    },
   ]
 }
 
@@ -176,18 +184,6 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/247international.png"),
-      projectName: "247 IT International",
-      projectDesc: "We are an expert-level IT recruitment company motivated by the rapid global growth of the technology based industry. We specialise in the placement of IT based roles to the world’s top organisations.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://247itinternational.com"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
       image: require("./assets/images/context.png"),
       projectName: "Context",
       projectDesc: "Context is a highly qualified professional services company supporting valued customers in government and commercial organizations.",
@@ -200,6 +196,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/247international.png"),
+      projectName: "247 IT International",
+      projectDesc: "We are an expert-level IT recruitment company motivated by the rapid global growth of the technology based industry. We specialise in the placement of IT based roles to the world’s top organisations.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://247itinternational.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/upperLevel.jpg"),
       projectName: "Upper Level Sweeps",
       projectDesc: "Upper Level Sweeps is an online Gaming Platform company supporting valued customers in multiple games.",
@@ -207,6 +215,30 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://www.upperlevelsweeps.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/logo.svg"),
+      projectName: "Cash Transfer App",
+      projectDesc: "Cash Transfer App is an online Payment Getway. It is use for Send, Receive and Withdraw money by using email.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://cash-transfer.herokuapp.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/logo-dark.png"),
+      projectName: "WSR (Wood Square Realty)",
+      projectDesc: "WSR (Wood Square Realty) App is the new way of buying or selling real estate.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://wsr-hermes-frontend.herokuapp.com"
         }
         //  you can add extra buttons here.
       ]
