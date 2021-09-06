@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4691a0cad40d8ad99588552b6f25425",
+    "revision": "1a75137f8e664235cdb571c31fefdc86",
     "url": "/index.html"
   },
   {
-    "revision": "ac9f22dee083b8af89bd",
+    "revision": "c9189775b411aabf9897",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "e7a7ff6aeb75ab071faa",
+    "revision": "fb3df32b066bff7c0e40",
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "72989894cc7141b29e4a",
+    "revision": "2eece5e587e321c91e19",
     "url": "/static/css/main.2420db17.chunk.css"
   },
   {
-    "revision": "f672936ced5815f6b21b",
-    "url": "/static/js/2.54341985.chunk.js"
+    "revision": "64e0852ae4a2b348b84c",
+    "url": "/static/js/2.1ea3e698.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.54341985.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1ea3e698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac9f22dee083b8af89bd",
-    "url": "/static/js/3.9d716431.chunk.js"
+    "revision": "c9189775b411aabf9897",
+    "url": "/static/js/3.62b26021.chunk.js"
   },
   {
-    "revision": "e7a7ff6aeb75ab071faa",
-    "url": "/static/js/4.c2f487a4.chunk.js"
+    "revision": "fb3df32b066bff7c0e40",
+    "url": "/static/js/4.916148d8.chunk.js"
   },
   {
-    "revision": "72989894cc7141b29e4a",
-    "url": "/static/js/main.c7db490a.chunk.js"
+    "revision": "2eece5e587e321c91e19",
+    "url": "/static/js/main.971482e6.chunk.js"
   },
   {
-    "revision": "86868e88c31b90a30ec5",
-    "url": "/static/js/runtime-main.62fc5c59.js"
+    "revision": "aa74bbf8eb6a3bda1ee9",
+    "url": "/static/js/runtime-main.68c4fd89.js"
   },
   {
     "revision": "cd6c94d7b0f342c8e3a7f3a061e46cdd",
@@ -70,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
+  },
+  {
+    "revision": "7e2042a7d7f696b8c7a86c36df4ecfe6",
+    "url": "/static/media/logo-dark.7e2042a7.png"
+  },
+  {
+    "revision": "06e733283fa43d1dd57738cfc409adbd",
+    "url": "/static/media/logo.06e73328.svg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
