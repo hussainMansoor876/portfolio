@@ -242,6 +242,42 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
+    },
+    {
+      image: require("./assets/images/smart-profile.png"),
+      projectName: "Smart Profile",
+      projectDesc: "Smart Profile App is the new way of sharing their profiles.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://smartprofile876.herokuapp.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/logo.svg"),
+      projectName: "Tenstat",
+      projectDesc: "Tenstat App is the new way of playing Tennis.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://tenstat.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/keep.jpeg"),
+      projectName: "Keep In Touch",
+      projectDesc: "Keep In Touch App is used for sending wishes to their loved.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.2keepintouch.com"
+        }
+        //  you can add extra buttons here.
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
