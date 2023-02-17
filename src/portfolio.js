@@ -2,7 +2,7 @@
 
 // Summary And Greeting Section
 
-import emoji from "react-easy-emoji";
+// import emoji from "react-easy-emoji";
 
 const illustration = {
   animated: true // set to false to use static SVG
@@ -11,7 +11,7 @@ const illustration = {
 const greeting = {
   username: "Mansoor Hussain",
   title: "Hi all, I'm Hussain",
-  subTitle: emoji(
+  subTitle: (
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
@@ -38,12 +38,12 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji(
+    (
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Develop High-Performance Application Servers"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
+    ("⚡ Develop High-Performance Application Servers"),
+    ("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    (
       "⚡ Integration of third party services such as Firebase/ AWS / GCP"
     )
   ],
@@ -278,6 +278,42 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
+    },
+    {
+      image: require("./assets/images/golf.png"),
+      projectName: "Value Market ",
+      projectDesc: "Value Market is a Korean website for Golf tickets management.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://vmvm.co.kr"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/machPdf.png"),
+      projectName: "MachPdf",
+      projectDesc: "This project contains features to convert file's extensions.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.machpdf.com"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/logo.svg"),
+      projectName: "Provincie Deals",
+      projectDesc: "This web gives feature to business user to manage there products and their sales, this app also manages their consumers to buy their products.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://provinciedeals.nl/"
+        }
+        //  you can add extra buttons here.
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -287,7 +323,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: ("Achievements And Certifications 🏆 "),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
@@ -374,7 +410,7 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: emoji(
+  subtitle: (
     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
   ),
 
@@ -392,7 +428,7 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji("Podcast 🎙️"),
+  title: ("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
@@ -403,7 +439,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: ("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3022838789",
